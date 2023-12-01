@@ -10,6 +10,8 @@ markmap:
 - [WorldCloud](https://github.com/cxrol25/Introdu-o-s-Humanidades-Digitais-IHD-/assets/150129262/91160d14-8f55-4312-8133-3a3273f42827)
 
 
+
+
 ## **Projeto Mapa Mental**
 
 - [markmap.md](markmap.md)
@@ -30,7 +32,8 @@ markmap:
 - [ERIC Forum](https://www.dariah.eu/activities/projects-and-affiliations/eric-forum/)
 - [DESIR](https://www.dariah.eu/activities/projects-and-affiliations/desir/)
 - [ARIADNE](https://www.dariah.eu/activities/projects-and-affiliations/ariadne/)
-- [))
+
+
 
 ## **Projeto Linha do Tempo**
 ](https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md)https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md
