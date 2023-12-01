@@ -11,10 +11,7 @@ markmap:
 
 ## **Projeto Mapa Mental**
 
-- [markmap.md](---
-markmap:
-colorFreezeLevel: 2
----
+- [markmap.md]
 
 # DARIAH-EU
 
