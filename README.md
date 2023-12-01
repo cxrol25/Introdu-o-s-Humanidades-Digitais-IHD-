@@ -1,4 +1,7 @@
-# README.md - Ana Carolina Alves Almeida Rocha (uc2022208957)
+# README.md
+
+Nome: Ana Carolina Alves Almeida Rocha
+Nº de estudante: uc2022208957
 
 **Introdução:**
 
