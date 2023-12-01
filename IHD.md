@@ -12,7 +12,9 @@ markmap:
 
 ## **Projeto Mapa Mental**
 
-- [markmap.md](markmap.md)(## Active Projects
+- [markmap.md](markmap.md)
+
+## Active Projects
 
 - [DS4CH](https://www.dariah.eu/activities/projects-and-affiliations/ds4ch/)
 - [PALOMERA](https://www.dariah.eu/activities/projects-and-affiliations/palomera/)
