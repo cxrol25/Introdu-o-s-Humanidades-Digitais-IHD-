@@ -1,7 +1,3 @@
-[---
-markmap:
-  colorFreezeLevel: 2
----
 
 # **markmap**
 
