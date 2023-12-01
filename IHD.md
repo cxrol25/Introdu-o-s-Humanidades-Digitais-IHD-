@@ -15,7 +15,7 @@ markmap:
 - [markmap.md](markmap.md)
 
 
-(## Active Projects
+## Active Projects
 
 - [DS4CH](https://www.dariah.eu/activities/projects-and-affiliations/ds4ch/)
 - [PALOMERA](https://www.dariah.eu/activities/projects-and-affiliations/palomera/)
@@ -36,4 +36,4 @@ advance/)
 - [)
 
 ## **Projeto Linha do Tempo**
-](https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md)https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md)
+](https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md)https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md
