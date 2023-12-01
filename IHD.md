@@ -16,7 +16,7 @@ markmap:
 
 - [markmap.md](markmap.md)
 
-## Active Projects
+### Active Projects
 
 - [DS4CH](https://www.dariah.eu/activities/projects-and-affiliations/ds4ch/)
 - [PALOMERA](https://www.dariah.eu/activities/projects-and-affiliations/palomera/)
@@ -25,7 +25,7 @@ markmap:
 - [CLS INFRA](https://www.dariah.eu/activities/projects-and-affiliations/cls-infra/)
 - [TRIPLE](https://www.dariah.eu/activities/projects-and-affiliations/triple/)
 
-## Past Projects
+### Past Projects
 
 - [OPERAS-P](https://www.dariah.eu/activities/projects-and-affiliations/operas-p/)
 - [SSHOC](https://www.dariah.eu/activities/projects-and-affiliations/sshoc/)
