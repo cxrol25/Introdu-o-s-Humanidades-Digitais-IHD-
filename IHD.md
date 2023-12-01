@@ -12,10 +12,7 @@ markmap:
 
 ## **Projeto Mapa Mental**
 
-- [markmap.md](markmap.md)
-
-
-## Active Projects
+- [markmap.md](markmap.md)(## Active Projects
 
 - [DS4CH](https://www.dariah.eu/activities/projects-and-affiliations/ds4ch/)
 - [PALOMERA](https://www.dariah.eu/activities/projects-and-affiliations/palomera/)
@@ -33,7 +30,7 @@ advance/)
 - [ERIC Forum](https://www.dariah.eu/activities/projects-and-affiliations/eric-forum/)
 - [DESIR](https://www.dariah.eu/activities/projects-and-affiliations/desir/)
 - [ARIADNE](https://www.dariah.eu/activities/projects-and-affiliations/ariadne/)
-- [)
+- [))
 
 ## **Projeto Linha do Tempo**
 ](https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md)https://gist.githubusercontent.com/raw/af76a4c245b302206b16aec503dbe07b/markmap.md
